@@ -3,3 +3,5 @@
 ################################################################################
 
 /sample/.vs/sample/v15/Server/sqlite3
+*.sqlite
+/sample/sample/obj
